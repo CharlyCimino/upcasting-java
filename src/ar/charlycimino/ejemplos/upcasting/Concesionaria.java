@@ -1,4 +1,4 @@
-package upcasting;
+package ar.charlycimino.ejemplos.upcasting;
 
 import java.util.ArrayList;
 
